@@ -24,3 +24,4 @@ app.get('/custom/:count/:query', function(req, res) {
 });
  
 app.listen(port);
+console.log(`Listening on ${port}`);
