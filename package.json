@@ -1,0 +1,16 @@
+{
+  "name": "expressfake",
+  "version": "0.1.0",
+  "description": "express.js faker.js quick server",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm i && node index.js"
+  },
+  "author": "carlhannes",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "faker": "^4.1.0",
+    "minimist": "^1.2.0"
+  }
+}
